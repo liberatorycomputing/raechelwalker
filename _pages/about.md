@@ -13,3 +13,5 @@ My research brings together AI education, participatory AI, Black Critical Theor
 Please contact me if you would like to discuss potential collaborations, consulting engagements, or keynote speaking opportunities.
 
 
+
+
