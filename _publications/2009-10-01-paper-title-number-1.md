@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025
+date: 2025-11-07
 venue: 'EAAMO '25: Proceedings of the 5th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization'
 slidesurl: #
 paperurl: 'https://dl.acm.org/doi/full/10.1145/3757887.3763020'
