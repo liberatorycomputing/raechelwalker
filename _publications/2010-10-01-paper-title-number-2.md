@@ -1,7 +1,7 @@
 ---
 title: "🏆 Redefining Data Science: Where Transformative Youth Organizing Meets Arts-Based Abolitionist Education"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: #
 date: 2025-08-14
