@@ -2,7 +2,7 @@
 title: "Unveiling Voices: Boston Students' Data Activism Journey with Community Catalysts"
 collection: publications
 category: conferences
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2024-01-03-paper-title-number-2
 excerpt: ""
 date: 2024-01-03
 venue: '2024 Black Issues in Computing Education (BICE)'
