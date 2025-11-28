@@ -2,7 +2,7 @@
 title: "🏆Redefining Data Science: Where Transformative Youth Organizing Meets Arts-Based Abolitionist Education"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2025-06-08-paper-title-number-5
 excerpt: ''
 date: 2025-07-14
 venue: 'the 2025 Conference on Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT 2025)'
