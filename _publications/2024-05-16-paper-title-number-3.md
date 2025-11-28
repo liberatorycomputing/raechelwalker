@@ -2,7 +2,7 @@
 title: "Alleviating the Danger Of A Single Story Through Liberatory Computing Education"
 collection: publications
 category: conferences
-permalink: /publication/2024-05-16-paper-title-number-3.md
+permalink: /publication/2024-05-16-paper-title-number-3
 excerpt: ''
 date: 2024-05-16
 venue: 'The ACM SIGCSE Conference on Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)'
