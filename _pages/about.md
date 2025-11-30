@@ -19,6 +19,10 @@ redirect_from:
 ✉️ Please contact me if you would like to discuss potential collaborations, consulting engagements, or keynote speaking opportunities. You can also refer to my [CV](/raechelwalker/files/RaechelW_CV_Website.pdf) for the latest updates on invited talks, media features, and grants.
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdmL_IaAVCs" frameborder="0" allowfullscreen></iframe>
+
+
+
 
 
 
