@@ -27,7 +27,7 @@ main:
     url: /files/RaechelW_CV_Website.pdf
 
   - title: "Data Activism Program"
-  url: https://liberatorycomputing.github.io/DataActivismProgram/
+    url: https://liberatorycomputing.github.io/DataActivismProgram/
     
   # - title: "CV"
   #   url: /cv-json/
